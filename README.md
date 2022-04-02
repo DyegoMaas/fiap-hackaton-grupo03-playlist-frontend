@@ -1,1 +1,3 @@
-# fiap-hackaton-grupo03-playlist-frontend
+# Playlist
+
+Aplicação para listar playlists
